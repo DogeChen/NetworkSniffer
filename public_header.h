@@ -1,0 +1,4 @@
+#ifndef PUBLIC_HEADER_H
+#define PUBLIC_HEADER_H
+
+#endif // PUBLIC_HEADER_H
