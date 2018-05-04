@@ -1,4 +1,22 @@
 #ifndef PUBLIC_WIDGET_HEADER_H
 #define PUBLIC_WIDGET_HEADER_H
-
+#include <QObject>
+#include <QWidget>
+#include <QDialog>
+#include <QMessageBox>
+#include <QString>
+#include <qDebug>
+#include <QThread>
+#include <QTableWidget>
+#include <QTreeWidget>
+#include <QHeaderView>
+#include <QList>
+#include <QTableWidgetItem>
+#include <QChar>
+#include <QtConcurrent/QtConcurrentRun>
+#include <QPair>
+#include <QRegExp>
+#include <QRegularExpression>
+#include <QFile>
+#include <QDir>
 #endif // PUBLIC_WIDGET_HEADER_H
